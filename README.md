@@ -1,21 +1,5 @@
-# Hello there!
-
-<h4>- sobre mim -</h4>
-atualmente estou em curso técnico de Desenvolvimento de Sistemas pelo SENAI.
-aqui irei compartilhar alguns dos programas e projetos desenvolvidos ao longo
-de meus estudos;
-
-<i><h4>- about me - </h4>
-currently I'm studying System's Development in a SENAI's technical program
-I'll share here some of programs and projects developed by me troughout my studies;</i>
-
-<div>
-<a href="https://github.com/o-Drive">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-Drive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-<h4>- estou aprendendo -</h4>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px width=50px/>
-          
-          
+<h4>Rules of Engagement</h4>
+you shall not pass<br>
+you shall not copy/paste<br>
+you shall not touch<br>
+you shall not shall<br>
